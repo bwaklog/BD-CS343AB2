@@ -1,0 +1,15 @@
+*
+
+.DS_Store
+
+!.gitignore
+
+!*.tex
+!*.png
+!*.py
+
+!images/
+!images/**
+
+!code/
+!code/**
